@@ -1,5 +1,5 @@
 import sys
-from lex import *
+from main_compiler.lex import *
 
 # Parser object keeps track of current token, checks if the code matches the grammar, and emits code along the way.
 class Parser:

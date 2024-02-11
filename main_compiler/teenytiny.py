@@ -1,6 +1,6 @@
-from lex import *
-from emit import *
-from parse import *
+from main_compiler.lex import *
+from main_compiler.emit import *
+from main_compiler.parse import *
 import sys
 
 def main():
